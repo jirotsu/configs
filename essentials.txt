@@ -1,0 +1,22 @@
+## AUR
+icons-in-terminal
+ls-icons
+vim-coc-clangd-git ## binary
+yay-bin
+zplug
+zsh-autocomplete-git
+zsh-autosuggestions-git
+zsh-syntax-highlighting-git
+zsh-theme-powerlevel10k-git
+
+## Official repo
+iwd
+iwctl
+dhcpcd
+linux
+linux-api-headers
+linux-firmware
+gnome-disk-utility
+coreutils
+grub
+efibootmgr
