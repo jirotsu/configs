@@ -30,7 +30,7 @@ set relativenumber
 call plug#begin('~/.vim/autoload')
 
 Plug 'lyuts/vim-rtags'
-Plug 'rip-rip/clang_complete'
+" Plug 'rip-rip/clang_complete' just yay clangd
 Plug 'scrooloose/nerdtree'
 Plug 'terryma/vim-multiple-cursors'
 Plug 'yggdroot/indentline'
